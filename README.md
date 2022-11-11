@@ -1,5 +1,5 @@
-- 🎓 Professor, 🖳 Deptartment of Computer Science, 🏢 Maynooth University, 🍀
-- 💡 Interests: 🧠 Theoretical Neurobiology, ⅀⋆🏋 Neural Networks, λ𝛁 Higher Order Automatic Differentiation, 🄢🄒🄗🄔🄜🄔🄡
+- 🎓 Professor, 🖳 [Department of Computer Science]( https://www.cs.nuim.ie ), 🏢 Maynooth University, 🍀
+- 💡 Interests: 🧠 Theoretical Neurobiology, ⅀⋆🏋 Neural Networks, λ𝛁 Higher Order Automatic Differentiation, 🄢🄒🄗🄔🄜🄔
 - 🏚 <a href="http://barak.pearlmutter.net">decrepit website</a>
-- 📫 Bottomless pit of lost messages: <a href="mailto:barak@pearlmutter.net">🕳</a>
-- 🐘 <a rel="nofollow me" href="https://fosstodon.org/@BAPearlmutter">Mastodon</a>
+- 📫 Bottomless pit of lost email: <a href="mailto:barak@pearlmutter.net">🕳</a>
+- 🐘 <a rel="me" href="https://fosstodon.org/@BAPearlmutter">Mastodon</a>
