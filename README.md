@@ -3,3 +3,4 @@
 - 🏚 <a href="http://barak.pearlmutter.net">decrepit website</a>
 - 📫 Bottomless pit of lost email: <a href="mailto:barak@pearlmutter.net">🕳</a>
 - 🐘 <a rel="me" href="https://fosstodon.org/@BAPearlmutter">Mastodon</a>
+- 🍥 [Debian]( https://salsa.debian.org/bap )
