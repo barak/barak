@@ -1,5 +1,5 @@
-- Professor, Deptartment of Computer Science, Maynooth University
-- 🧠 Interests: Theoretical Neurobiology, Neural Networks, Higher Order Automatic Differentiation. Schemer!
+- 🎓 Professor, 🖳 Deptartment of Computer Science, 🏢 Maynooth University, 🍀
+- 💡 Interests: 🧠 Theoretical Neurobiology, ⅀⋆🏋 Neural Networks, λ𝛁 Higher Order Automatic Differentiation, 🄢🄒🄗🄔🄜🄔🄡
 - 🏚 <a href="http://barak.pearlmutter.net">decrepit website</a>
 - 📫 Bottomless pit of lost messages: <a href="mailto:barak@pearlmutter.net">🕳</a>
 - 🐘 <a rel="nofollow me" href="https://fosstodon.org/@BAPearlmutter">Mastodon</a>
